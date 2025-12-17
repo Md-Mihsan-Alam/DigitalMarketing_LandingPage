@@ -53,7 +53,7 @@ export const Hero = () => {
             {/* Using a 3D illustration placeholder that matches the vibe */}
             <div className="relative z-10">
                <img 
-                src="../image/saly.png" 
+                src="https://skillphase.com/wp-content/uploads/2021/05/skillphase-social-media_mobile.png" 
                 alt="Digital Marketing 3D Illustration" 
                 className="w-full h-auto object-contain max-h-[600px] rounded-lg "
               />
